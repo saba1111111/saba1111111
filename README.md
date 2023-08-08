@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm saba pachulia</h1>
 <h3 align="center">A passionate Software Engineer from Georgia</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saba1111111" alt="saba1111111" /></a> </p>
+
 - 🌱 I’m currently learning **Microservices, Databases.**
 
 - 💬 Ask me about **javascrypt and typscrypt.**
