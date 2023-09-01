@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm saba pachulia</h1>
 <h3 align="center">A passionate Software Engineer from Georgia</h3>
 
-- 🌱 I’m currently learning **Microservices, Databases.**
+- 🌱 I’m currently learning **Microservices, AWS.**
 
-- 💬 Ask me about **javascrypt and typscrypt.**
+- 💬 Ask me about **databases, javascrypt and typscrypt.**
 
 - 📫 How to reach me **sabapachulia1232gmail.com**
 
