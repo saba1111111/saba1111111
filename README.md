@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Microservices, AWS.**
 
-- 💬 Ask me about **databases, javascrypt and typscrypt.**
+- 💬 Ask me about **databases, node.js, javascrypt and typscrypt.**
 
 - 📫 How to reach me **sabapachulia1232gmail.com**
 
